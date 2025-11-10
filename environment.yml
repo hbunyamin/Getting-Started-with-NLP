@@ -11,4 +11,3 @@ dependencies:
   - numpy=1.18
   - pandas=1.0
   - notebook
-prefix: /home/hbunyamin/miniconda3/envs/getting_started_with_nlp
